@@ -98,8 +98,10 @@ Install required dependencies:
 
 ### Exercise 1
 
-Run the Adaline experiments (Part A-B):
-```python Ex1/Part\ A-B/main.py```
+* Run the Adaline experiments (Part A-B):
+```
+python Ex1/Part\ A-B/main.py
+```
 
 Run the MLP experiments (Part C-D):
 ```python Ex1/Part\ C-D/main.py```
