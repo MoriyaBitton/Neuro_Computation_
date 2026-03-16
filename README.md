@@ -39,9 +39,6 @@ Neuro_Computation
 
 ---
 
-
----
-
 ## Exercises Overview
 
 ### Exercise 1 – Adaline and Backpropagation
@@ -74,9 +71,9 @@ The experiments explore:
 
 More information and analysis can be found in the reports:
 
-- 📄 `Ex2/Part A/SOM Algorithm.pdf`
-- 📄 `Ex2/Part B/SOM part 2 Algorithm.pdf`
-- 📄 `Ex2/Part B/Project II 2021 Kohonen.pdf`
+- 📄 [SOM Algorithm Report](Ex2/Part%20A/SOM%20Algorithm.pdf)
+- 📄 [SOM Part 2 Algorithm](Ex2/Part%20B/SOM%20part%202%20Algorithm.pdf)
+- 📄 [Project II – Kohonen](Ex2/Part%20B/Project%20II%202021%20Kohonen.pdf)
 
 ---
 
