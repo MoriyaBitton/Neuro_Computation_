@@ -90,7 +90,9 @@ cd Neuro_Computation
 ```
 
 Install required dependencies:
-```pip install numpy matplotlib scikit-learn```
+```
+pip install numpy matplotlib scikit-learn
+```
 
 ---
 
@@ -99,9 +101,9 @@ Install required dependencies:
 ### Exercise 1
 
 * Run the Adaline experiments (Part A-B):
-```
-python Ex1/Part\ A-B/main.py
-```
+  ```
+  python Ex1/Part\ A-B/main.py
+  ```
 
 Run the MLP experiments (Part C-D):
 ```python Ex1/Part\ C-D/main.py```
