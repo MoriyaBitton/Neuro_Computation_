@@ -56,9 +56,9 @@ The project compares the performance of:
 
 More information and analysis can be found in the following reports:
 
-- 📄 `Ex1/Part A-B/Adaline Algorithm.pdf`
-- 📄 `Ex1/Part C-D/Mlp Algorithm.pdf`
-- 📄 `Ex1/Part C-D/NN 2021 Spring Project 1.pdf`
+- 📄 [Adaline Algorithm Report](Ex1/Part%20A-B/Adaline%20Algorithm.pdf)
+- 📄 [MLP Algorithm Report](Ex1/Part%20C-D/Mlp%20Algorithm.pdf)
+- 📄 [Project Description](Ex1/Part%20C-D/NN%202021%20Spring%20Project%201.pdf)
 
 ---
 
@@ -90,6 +90,7 @@ cd Neuro_Computation
 ```
 
 Install required dependencies:
+
 ```
 pip install numpy matplotlib scikit-learn
 ```
@@ -100,21 +101,31 @@ pip install numpy matplotlib scikit-learn
 
 ### Exercise 1
 
-* Run the Adaline experiments (Part A-B):
-  ```
-  python Ex1/Part\ A-B/main.py
-  ```
+Run the Adaline experiments (Part A-B):
+
+```
+python Ex1/Part\ A-B/main.py
+```
 
 Run the MLP experiments (Part C-D):
-```python Ex1/Part\ C-D/main.py```
+
+```
+python Ex1/Part\ C-D/main.py
+```
 
 ### Exercise 2
 
 Run the Self-Organizing Map implementation (Part A):
-```python Ex2/Part\ A/main.py```
+
+```
+python Ex2/Part\ A/main.py
+```
 
 Run the extended SOM experiments (Part B):
-```python Ex2/Part\ B/kohonen_part2.py```
+
+```
+python Ex2/Part\ B/kohonen_part2.py
+```
 
 ---
 
