@@ -73,7 +73,7 @@ More information and analysis can be found in the reports:
 
 - 📄 [SOM Algorithm Report](Ex2/Part%20A/SOM%20Algorithm.pdf)
 - 📄 [SOM Part 2 Algorithm](Ex2/Part%20B/SOM%20part%202%20Algorithm.pdf)
-- 📄 [Project II – Kohonen](Ex2/Part%20B/Project%20II%202021%20Kohonen.pdf)
+- 📄 [Project II – Kohonen](Ex2/Project%20II%202021%20Kohonen.pdf)
 
 ---
 
