@@ -55,7 +55,7 @@ More information and analysis can be found in the following reports:
 
 - 📄 [Adaline Algorithm Report](Ex1/Part%20A-B/Adaline%20Algorithm.pdf)
 - 📄 [MLP Algorithm Report](Ex1/Part%20C-D/Mlp%20Algorithm.pdf)
-- 📄 [Project Description](Ex1/Part%20C-D/NN%202021%20Spring%20Project%201.pdf)
+- 📄 [Project Description](Ex1/NN%202021%20Spring%20Project%201.pdf)
 
 ---
 
